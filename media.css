@@ -1,0 +1,35 @@
+@media (max-width:600px){
+
+    h1{
+        display: none;
+    }
+
+    .calculator{
+        height: 50%;
+        width: 40%;
+        padding-right: 10px;
+        margin: auto;
+        padding-left: 5px;
+        text-align: center;
+    }
+
+    input{
+        width: auto;
+        padding: 8px;
+        margin: auto;
+        font-size: 12px;
+        text-align: right;
+        
+    }
+
+    button{
+        width: 30px;
+        height: 30px;
+        margin: auto;
+        font-size: 10px;
+        font-weight: bolder;
+        cursor: pointer;
+        text-align: center;
+    }
+  
+}  
